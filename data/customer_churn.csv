@@ -1,0 +1,7 @@
+CustomerID,Name,Age,Gender,Tenure,Service,MonthlyCharges,TotalCharges,Churn
+1,Ali,25,Male,12,Internet,29.85,298.5,No
+2,Sara,NaN,Female,24,Phone,56.95,NaN,Yes
+3,Hassan,45,Male,,Internet,53.85,1080.5,No
+4,Mehak,33,Female,5,Internet,NaN,NaN,Yes
+5,Omar,60,Male,72,Phone,99.65,7000,No
+6,Ayesha,29,Female,36,Internet,75.25,2710.5,Yes
